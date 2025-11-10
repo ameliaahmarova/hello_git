@@ -1,4 +1,10 @@
-Basic Calculator
-Number Guessing Game
-Password Generator
-Rock Paper Scissors Gamegit sgit l
+# Проектные идеи
+от партнера:
+-игра
+-чат бот
+# От партнера:
+-игра
+-чат бот
+# От владельца:
+-мобильное приложение
+-веб приложение
